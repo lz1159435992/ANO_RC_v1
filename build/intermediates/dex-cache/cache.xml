@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Desktop\ANO_RC_v1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c228bb511885e24ba6de26d0fb5193916034326">
+        <dex dex="C:\Users\Zheng\Desktop\ANO_RC_v1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3fa334f23ab4a2102af5d4abce650c6b1527a00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidstudio\sdk-for-windows\sdk-for-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Zheng\Desktop\ANO_RC_v1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_902e8e6c878b94f32d92a20c17d35e7b37a86700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zheng\Desktop\ANO_RC_v1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="36f94c54db43026ed032a046fed5d100db8f6b19">
+        <dex dex="C:\Users\Zheng\Desktop\ANO_RC_v1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0e404c702804e7ad0d9b4f9f6e2baeba425444bb\classes.dex" />
+    </item>
+
+</items>

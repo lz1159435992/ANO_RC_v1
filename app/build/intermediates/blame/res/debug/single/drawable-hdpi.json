@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_big.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\logo_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_main.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\logo_main.png"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_back.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\control_back.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\control_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_main_text.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\logo_main_text.png"
+    },
+    {
+        "merged": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_main2.png",
+        "source": "C:\\Users\\Zheng\\Desktop\\ANO_RC_v1\\app\\src\\main\\res\\drawable-hdpi\\logo_main2.png"
+    }
+]
